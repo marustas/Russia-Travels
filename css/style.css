@@ -262,3 +262,23 @@ footer nav a {
 .hover-animation :hover {
     filter: brightness(0.8);
 }
+
+.navigation {
+    margin: 32px 0px 16px;
+}
+
+.navigation_list {
+    padding: 0px 0px 0px 24px;
+}
+
+p {
+    margin: 20px 20px 20px 20px;
+}
+
+.policy_content {
+    margin: 20px 0px 0px 10px;
+}
+
+h2 {
+    margin: 10px 0px 10px 10px;
+}
