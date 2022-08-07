@@ -258,3 +258,7 @@ footer nav span {
 footer nav a {
     color: white;
 }
+
+.hover-animation :hover {
+    filter: brightness(0.8);
+}
