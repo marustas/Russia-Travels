@@ -260,25 +260,25 @@ footer nav a {
 }
 
 .hover-animation :hover {
-    filter: brightness(0.8);
-}
-
-.navigation {
-    margin: 32px 0px 16px;
+    filter: brightness(0.9);
 }
 
 .navigation_list {
     padding: 0px 0px 0px 24px;
 }
 
-p {
+.policy_p p {
     margin: 20px 20px 20px 20px;
+    padding-bottom: 15px;
 }
 
-.policy_content {
-    margin: 20px 0px 0px 10px;
+.policy_p .test {
+    border-bottom: 2px solid black;
 }
 
-h2 {
+h1,
+h2,
+h4,
+h3 {
     margin: 10px 0px 10px 10px;
 }
