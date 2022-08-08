@@ -268,7 +268,7 @@ footer nav a {
 }
 
 .navigation_list a:hover {
-    filter: brightness(0.3);
+    text-decoration: underline;
 }
 
 .policy_p p {
