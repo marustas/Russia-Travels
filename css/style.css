@@ -179,8 +179,9 @@ header nav .dropdown {
 }
 
 .swiper {
-    width: 80%;
+    width: 100%;
     height: fit-content;
+    margin-top: 97px;
 }
 
 .swiper-slide img {
@@ -259,7 +260,8 @@ footer nav a {
     color: white;
 }
 
-.hover-animation :hover {
+.hover-animation :hover,
+.underline:hover {
     filter: brightness(0.9);
 }
 
