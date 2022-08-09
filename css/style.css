@@ -296,3 +296,7 @@ h3 {
 .bus_tour_content li {
     display: block;
 }
+
+.bus_tour_content a:hover {
+    text-decoration: underline;
+}
