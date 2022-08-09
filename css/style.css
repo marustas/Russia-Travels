@@ -303,3 +303,15 @@ h3 {
 .bus_tour_content a:hover {
     text-decoration: underline;
 }
+
+.months li {
+    display: inline-block
+}
+
+.months li button {
+    background-color: rgb(66, 122, 192);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 4px;
+    border: none;
+}
